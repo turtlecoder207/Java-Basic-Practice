@@ -3,7 +3,7 @@ public class Ch4hw1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//test
+		//test22
 		int num1 = 0;
 		int num2 = 4;
 		
