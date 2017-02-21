@@ -2,7 +2,7 @@ import java.io.*;
 public class Ch3P5 {
 
 	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubtest
 		System.out.println("키와 몸무게를 입력하십시오");
 		BufferedReader br = 
 				new BufferedReader(new InputStreamReader(System.in));
