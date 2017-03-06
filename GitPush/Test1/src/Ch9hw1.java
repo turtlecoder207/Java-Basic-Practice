@@ -16,7 +16,7 @@ class MyPoint1
 	
 	public void setX(int px)
 	{
-		if(px>0 && px<100){
+		if(px>=0 && px<=100){
 			x = px;
 		}
 		else
@@ -26,7 +26,7 @@ class MyPoint1
 	}
 	public void setY(int py)
 	{
-		if(py>0 && py<100){
+		if(py>=0 && py<=100){
 			y = py;
 		}
 		else
