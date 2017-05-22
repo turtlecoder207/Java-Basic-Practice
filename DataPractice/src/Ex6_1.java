@@ -11,7 +11,7 @@ public class Ex6_1 {
 		L.printList();
 		
 		System.out.println("(2) 수 노드 뒤에 금 노드 삽입하기");
-		ListNode pre = L.searchNode("목");
+		ListNode pre = L.searchNode("수");
 		if(pre==null)
 			System.out.println("검색실패 >> 찾는 데이터가 없습니다.");
 		else{
